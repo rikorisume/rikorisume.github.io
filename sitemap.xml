@@ -2,9 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rikorisume.github.io/categories/</loc>
+    <loc>https://rikorisume.github.io/wasm/post-1/</loc>
+    <lastmod>2022-07-18T19:30:29+08:00</lastmod>
   </url><url>
     <loc>https://rikorisume.github.io/</loc>
+    <lastmod>2022-07-18T19:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://rikorisume.github.io/wasm/</loc>
+    <lastmod>2022-07-18T19:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://rikorisume.github.io/blog/</loc>
+    <lastmod>2022-07-18T19:30:22+08:00</lastmod>
+  </url><url>
+    <loc>https://rikorisume.github.io/blog/post-1/</loc>
+    <lastmod>2022-07-18T19:30:22+08:00</lastmod>
+  </url><url>
+    <loc>https://rikorisume.github.io/categories/</loc>
   </url><url>
     <loc>https://rikorisume.github.io/tags/</loc>
   </url>
